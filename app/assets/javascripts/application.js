@@ -13,4 +13,8 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+//= require bootstrap.min
+//= require moment-with-locales
+//= require bootstrap-datetimepicker
+//= require custom
 //= require_tree .
